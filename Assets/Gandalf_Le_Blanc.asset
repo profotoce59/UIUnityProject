@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b086e5e440881334abd9fefc0b5b598b, type: 3}
+  m_Name: Gandalf_Le_Blanc
+  m_EditorClassIdentifier: 
+  name: Gandalf Le Blanc
+  description: "Gandalf Le Blanc la r\xE9incarnation de gandalf le gris "
+  dialogue1: "Attendez ma venue aux premi\xE8re lueur du 5\xE8me jours \xE0 l'aube,
+    regardez \xE0 l'est"
+  dialogue2: Je suis Gandalf Le Blanc et je reviens vers vous
